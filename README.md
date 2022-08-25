@@ -76,3 +76,7 @@ Give a ⭐️ if you like this port!
 
 Copyright © 2022 [Abod1960](https://github.com/Abod1960)<br>
 This project is licensed under the [GNU General Public](https://github.com/Moonlight-color-theme/One-Commander/blob/main/LICENSE) license.<br>
+
+<div align= "center">
+<img src="https://i.imgur.com/AakakSO.png" width=100%>
+</div>
