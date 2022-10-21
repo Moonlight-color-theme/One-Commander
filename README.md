@@ -9,7 +9,7 @@
 <br>
 <div align="center">
   
-![1](https://i.imgur.com/xIh4dig.png)
+![1](https://i.imgur.com/uThL8Rf.png)
 
 </div>
 
@@ -19,7 +19,7 @@ A simple moonlight theme for One commander.
 
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="18px" alt="Abod1960" src="https://i.imgur.com/47tcmEc.png"> Utilization</h2>
 
-#### 🔰 Download [one-Commander-moonlight.zip](https://github.com/Moonlight-color-theme/One-Commander/releases/download/1.0/One-Commander-moonlight.zip)
+#### 🔰 Download [one-Commander-Moonlight.zip](https://github.com/Moonlight-color-theme/One-Commander/releases/download/1.1/One-Commander-Moonlight.zip)
 
 
 ### Theme
